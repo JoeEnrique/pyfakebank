@@ -5,6 +5,7 @@ This is my very first Python program, having worked with Python for almost two w
 The project is a program that simulates a bank transaction terminal.
 Nothing complex, just a few lists of options.
 July 2025.
+
 ![pyfakebank image](https://github.com/JoeEnrique/pyfakebank/blob/main/images/pyfakebank.png)
 
 <!-- Characteristics -->
